@@ -1,2 +1,9 @@
-# Blender-Modeliranje-sobe
-Modeliranje spavaće sobe koristeći Blender. Predmet: Računarska grafika
+# Blender - 3D - Room modeling
+* Using Blender
+* Bedroom modeling
+* Subject: Computer graphics
+
+# Blender- 3D - Modeliranje-sobe
+* Korišten Blender
+* Modeliranje spavaće sobe
+* Predmet: Računarska grafika
